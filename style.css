@@ -74,9 +74,20 @@ body, p {
 #teste {
     text-align: center;
     font-size: 20px;
-    padding: 20px;
     border-top: solid 7px #1C5662;
     border-bottom: solid 7px #1C5662;
+    padding-bottom: 30px;
+}
+.rodape-main{  
+    width: 100px;
+    height: 100px;
+}
+img{
+    
+    height: 160px;
+    object-fit: cover;
+}
+
 }
 .clique {
     margin: 30px 0px;
